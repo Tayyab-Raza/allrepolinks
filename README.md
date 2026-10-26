@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Repositories-06-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="6 repositories" />
+<img src="https://img.shields.io/badge/Repositories-07-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="6 repositories" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Development-06b6d4?style=for-the-badge" alt="AI and development" />
 <img src="https://img.shields.io/badge/Learn-Build%20%26%20Practice-22c55e?style=for-the-badge" alt="Learn build and practice" />
 </p>
@@ -126,6 +126,31 @@ Tech focus: JavaScript · Logic Building · Problem Solving
 </p>
 
 </td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+📊 07. MarketPilot Core
+
+Market Intelligence & Trading Tools
+
+A market-focused development project intended for exploring financial market data, analysis workflows, and trading-related tools. Check the repository documentation for its exact features, supported integrations, and setup instructions.
+
+Tech focus: Financial Markets · Market Analysis · Development
+
+<p align="center">
+<a href="https://github.com/Tayyab-Raza/marketpilot-core">
+<img src="https://img.shields.io/badge/Explore%20Repository-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore MarketPilot Core repository" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+
+
 </tr>
 </table>
 
