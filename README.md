@@ -1,219 +1,170 @@
-🚀 Developer Resource Hub
+🚀 GitHub Repository Collection
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Developer%20Resource%20Hub&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Trading%20%7C%20Development%20%7C%20Problem%20Solving&descSize=15&descAlignY=72" alt="Developer Resource Hub Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:4338ca,100:06b6d4&height=220&section=header&text=My%20Dev%20Universe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Explore%20%7C%20Learn%20%7C%20Build%20%7C%20Grow&descSize=18&descAlignY=60" width="100%" alt="My Dev Universe banner" />
 </p>
 
 <p align="center">
-A curated collection of useful open-source repositories, AI-powered tools, developer resources, and coding practice projects.
+<b>A curated collection of repositories for AI, trading, developer tools, algorithms, and problem-solving.</b>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Repositories-6-blueviolet?style=for-the-badge" alt="6 repositories" />
-<img src="https://img.shields.io/badge/Open%20Source-Explore-success?style=for-the-badge" alt="Open source" />
-<img src="https://img.shields.io/badge/Learn-Build%20%26%20Grow-orange?style=for-the-badge" alt="Learn, build and grow" />
+<img src="https://img.shields.io/badge/Repositories-06-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="6 repositories" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Development-06b6d4?style=for-the-badge" alt="AI and development" />
+<img src="https://img.shields.io/badge/Learn-Build%20%26%20Practice-22c55e?style=for-the-badge" alt="Learn build and practice" />
 </p>
 
-📚 Table of Contents
-✨ About
-🤖 AI & Automation
-1. Harvey
-2. Brag
-📈 Trading & Market Analysis
-3. Day Trader Skill
-🛠️ Developer Resources
-4. Public APIs
-🧠 DSA & Problem Solving
-5. DSA JavaScript
-6. LogicBuilding101
-🎯 Recommended Learning Path
-🤝 Contributing
-📄 License
-✨ About
+📚 Explore the Repositories
 
-Welcome to the Developer Resource Hub — a collection of GitHub projects selected to help developers explore AI automation, experiment with trading tools, discover useful APIs, and strengthen their programming skills.
+Discover useful open-source projects covering AI-powered automation, trading workflows, creative tools, public APIs, and JavaScript practice.
 
-Whether you're building your next project, exploring AI agents, or preparing for coding interviews, these repositories offer useful starting points.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🤖 AI & Automation
-1. Harvey — Autonomous AI Sales Agent
+🤖 01. Harvey
 
-An AI-powered sales assistant for prospecting and outreach.
+Autonomous AI Sales Agent
 
-Harvey automates parts of the sales workflow using Claude Code or Codex. It helps discover potential customers, research businesses, draft personalized cold emails, manage replies, and move conversations toward meetings.
+An AI-powered sales automation project that helps discover potential customers, research businesses, personalize cold emails, manage campaigns, process replies, and support meeting booking. It uses Claude Code or Codex subscriptions to power its AI workflows.
 
-Key features
-
-🔍 Business prospect discovery and profiling
-✉️ Personalized email campaign generation
-💬 Reply handling and conversation management
-📊 Dashboard for reviewing sales activity
-🛡️ Approval workflows and sending controls
-
-Best for: Developers and businesses exploring AI agents, sales automation, and workflow orchestration.
-
-Tech focus: Python, AI agents, automation, and email integrations.
-
-🔗 Explore Harvey Repository
-
-2. Brag — AI-Powered Launch Video Generator
-
-Turn your project into a shareable launch video.
-
-Brag is an AI agent skill that transforms a project into a short promotional video, complete with motion, music, and accompanying social-sharing copy. It uses Hyperframes for its video-generation workflow and also offers a slimmer alternative.
-
-Key features
-
-🎬 Automated product launch video creation
-🎨 Project-specific visual storytelling
-🎵 Music and motion effects
-📣 Share-ready promotional copy
-🤖 Support for compatible AI coding agents
-
-Best for: Indie hackers, developers, startup founders, and creators who want to showcase their projects.
-
-Tech focus: AI agent skills, Hyperframes, video generation, and creative automation.
-
-🔗 Explore Brag Repository
-
-📈 Trading & Market Analysis
-3. Day Trader Skill — AI-Assisted Trading Toolkit
-
-A collection of AI agent skills for analyzing and managing day trades.
-
-This repository provides Claude skills and Python tools for scanning stock charts, tracking market news, planning entries and exits, managing risk, and reviewing historical trade outcomes.
-
-Key features
-
-📊 Stock screening and chart pattern detection
-📰 Market news and earnings analysis
-🎯 Entry timing and exit planning
-🧮 Position sizing and risk checks
-🧪 Historical trade simulations and alerts
-
-Best for: Developers interested in financial data, trading automation, backtesting, and AI-assisted market analysis.
-
-Tech focus: Python, Claude skills, financial data, and trading simulations.
-
-🔗 Explore Day Trader Skill Repository
-
-⚠️ Risk notice: This project is a software and research tool, not a guarantee of trading success or financial advice. Test strategies carefully and consider paper trading before risking real money.
-🛠️ Developer Resources
-4. Public APIs — A Directory of Free APIs
-
-Discover APIs to power your next application.
-
-Public APIs is a community-maintained collection of APIs organized into categories, making it easier to find external services and data sources for web applications, automation projects, and experiments.
-
-Key features
-
-🌐 APIs across many categories
-📚 Organized directory for easy discovery
-🔗 Resources for integrating external services
-💡 Inspiration for new applications and side projects
-🤝 Community-driven contributions
-
-Example categories
-
-💰 Finance and cryptocurrency
-🌦️ Weather and geography
-🎮 Entertainment and games
-🤖 Machine learning and science
-🏛️ Government and open data
-🛠️ Development tools and productivity
-
-Best for: Developers building full-stack applications, prototypes, bots, dashboards, and API integrations.
-
-🔗 Explore Public APIs Repository
-
-🧠 DSA & Problem Solving
-5. DSA JavaScript — Data Structures & Algorithms
-
-Practice data structures and algorithms using JavaScript.
-
-This repository provides a starting point for exploring DSA concepts through JavaScript implementations and coding exercises. Use it to strengthen your understanding of common programming techniques and prepare for technical interviews.
-
-Learning goals
-
-📦 Understand data structures and their operations
-⚙️ Explore common algorithmic approaches
-🔎 Improve problem-solving and analytical thinking
-💻 Practice writing JavaScript solutions
-🎯 Build a foundation for coding interviews
-
-Best for: JavaScript developers, students, and interview candidates learning DSA.
-
-🔗 Explore DSA JavaScript Repository
-
-6. LogicBuilding101 — 101 Coding Exercises
-
-Build strong programming fundamentals one problem at a time.
-
-LogicBuilding101 provides coding exercises designed to develop logical thinking, programming fluency, and confidence in solving problems. It helps learners practice fundamental programming concepts with JavaScript.
-
-Key topics
-
-🔢 Basic and intermediate mathematics
-🔷 Pattern printing
-📚 Arrays and matrices
-🔤 String manipulation
-🧩 Objects
-🔁 Basic recursion
-
-Suggested practice routine
-
-Read the problem carefully.
-Write your own solution before checking the answer.
-Test your solution with different inputs.
-Review the provided solution and compare approaches.
-Repeat consistently to build problem-solving skills.
-
-Best for: Beginners learning programming logic and developers preparing for DSA practice.
-
-🔗 Explore LogicBuilding101 Repository
-
-🎯 Recommended Learning Path
-
-Follow this path depending on your goals.
-
-Stage	Focus	Recommended Repository
-1	Programming logic	LogicBuilding101
-2	Data structures and algorithms	DSA-Javascript
-3	API integration	Public APIs
-4	AI-assisted development	Brag
-5	AI automation workflows	Harvey
-6	Financial data and trading systems	Day Trader Skill
-
-You can explore these repositories in any order based on your interests and experience.
-
-🤝 Contributing
-
-Found a useful repository or want to improve this collection?
-
-Contributions are welcome!
-
-Fork this repository.
-Add a repository with a clear title and description.
-Include its original GitHub URL as a Markdown link.
-Explain its main features and intended audience.
-Submit a pull request with your changes.
-
-Please keep additions relevant, useful, and easy to understand.
-
-📄 License
-
-This README serves as a directory of external projects. Each repository retains its own license and usage conditions. Check the original repository before using or redistributing its code.
+Tech focus: Python · AI Agents · Sales Automation
 
 <p align="center">
-<b>⭐ Learn continuously. Build consistently. Share what you discover.</b>
+<a href="https://github.com/ethanplusai/harvey">
+<img src="https://img.shields.io/badge/Explore%20Repository-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Explore Harvey repository" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+📈 02. Day Trader Skill
+
+AI-Assisted Day Trading Toolkit
+
+A collection of 11 Claude skills designed to assist with stock scanning, market news monitoring, entry and exit planning, risk management, position sizing, trade simulations, price alerts, and earnings analysis. It emphasizes human approval and defaults to paper trading.
+
+Tech focus: Python · Claude Skills · Market Data
+
+<p align="center">
+<a href="https://github.com/Jakeschincariol/day-trader-skill">
+<img src="https://img.shields.io/badge/Explore%20Repository-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Explore Day Trader Skill repository" />
+</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🎬 03. Brag
+
+AI-Powered Project Launch Videos
+
+An agent skill that transforms a software project or product into a short, shareable launch video, complete with motion, music, and social sharing copy. It uses Hyperframes for video generation and also offers a streamlined workflow for supported AI coding agents.
+
+Tech focus: AI Agent Skills · Video Generation · Hyperframes
+
+<p align="center">
+<a href="https://github.com/latent-spaces/brag">
+<img src="https://img.shields.io/badge/Explore%20Repository-d946ef?style=for-the-badge&logo=github&logoColor=white" alt="Explore Brag repository" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+🌐 04. Public APIs
+
+A Directory of Public APIs
+
+A community-maintained directory of public APIs for exploring and integrating services into applications. It covers categories such as development, finance, science, weather, entertainment, geolocation, and more.
+
+Tech focus: REST APIs · Open Source · Developer Resources
+
+<p align="center">
+<a href="https://github.com/public-apis/public-apis">
+<img src="https://img.shields.io/badge/Explore%20Repository-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Explore Public APIs repository" />
+</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🧠 05. DSA JavaScript
+
+Data Structures & Algorithms in JavaScript
+
+A learning resource for practicing data structures and algorithms using JavaScript. It is useful for strengthening programming fundamentals, understanding common algorithmic techniques, and preparing for coding interviews.
+
+Tech focus: JavaScript · DSA · Coding Interviews
+
+<p align="center">
+<a href="https://github.com/Upendhar10/DSA-Javascript">
+<img src="https://img.shields.io/badge/Explore%20Repository-f97316?style=for-the-badge&logo=github&logoColor=white" alt="Explore DSA JavaScript repository" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+💡 06. LogicBuilding101
+
+101 Coding Exercises for Logic Building
+
+A structured collection of coding challenges that helps developers improve their problem-solving skills through daily practice. Topics include mathematics, patterns, arrays, matrices, strings, objects, and recursion.
+
+Tech focus: JavaScript · Logic Building · Problem Solving
+
+<p align="center">
+<a href="https://github.com/Upendhar10/LogicBuilding101">
+<img src="https://img.shields.io/badge/Explore%20Repository-0d9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore LogicBuilding101 repository" />
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+🗂️ Repository Categories</br>
+Category	Repositories	Purpose</br>
+🤖 AI & Automation	Harvey, Brag	Build intelligent agents and automate workflows</br>
+📊 Trading & Finance	Day Trader Skill	Explore market analysis and risk-management tools</br>
+🔌 Developer Resources	Public APIs	Discover APIs for application development</br>
+💻 Programming	DSA JavaScript	Learn data structures and algorithms</br>
+🧩 Problem Solving	LogicBuilding101	Develop coding logic through practice</br>
+🎯 Why Explore These Projects?</br>
+Learn by building: Explore practical implementations of software concepts.</br>
+Discover AI tools: Understand how AI agents can support real-world workflows.</br>
+Improve coding skills: Practice JavaScript, algorithms, and logical reasoning.</br>
+Build projects faster: Find APIs and open-source tools for your next idea.</br>
+Explore open source: Study code, contribute improvements, and learn from other developers.</br>
+🚀 Getting Started</br>
+Choose a repository that matches your interests.</br>
+Open its GitHub page and read the project-specific README.md.</br>
+Review the installation instructions, prerequisites, and license.</br>
+Clone the repository if you want to experiment locally.</br>
+bash</br>
+git clone https://github.com/ethanplusai/harvey.git</br>
+
+
+Replace the URL with any repository listed above to clone a different project.
+
+💫 Keep Learning. Keep Building.
+
+<p align="center">
+<b>Explore new ideas, experiment with code, and turn knowledge into projects.</b>
 </p>
 
 <p align="center">
-Made for developers who love exploring, learning, and building.
+<a href="https://github.com/Tayyab-Raza">
+<img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" />
+</a>
 </p>
 
 <p align="center">
-<a href="https://github.com/public-apis/public-apis">Explore APIs</a> •
-<a href="https://github.com/Upendhar10/DSA-Javascript">Practice DSA</a> •
-<a href="https://github.com/latent-spaces/brag">Explore AI Tools</a>
+<sub>Made with ❤️ for developers, learners, and curious builders.</sub>
 </p>
