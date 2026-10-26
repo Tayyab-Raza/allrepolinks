@@ -154,27 +154,40 @@ Tech focus: Financial Markets · Market Analysis · Development
 </tr>
 </table>
 
-🗂️ Repository Categories</br>
-Category	Repositories	Purpose</br>
-🤖 AI & Automation	Harvey, Brag	Build intelligent agents and automate workflows</br>
-📊 Trading & Finance	Day Trader Skill	Explore market analysis and risk-management tools</br>
-🔌 Developer Resources	Public APIs	Discover APIs for application development</br>
-💻 Programming	DSA JavaScript	Learn data structures and algorithms</br>
-🧩 Problem Solving	LogicBuilding101	Develop coding logic through practice</br>
-🎯 Why Explore These Projects?</br>
-Learn by building: Explore practical implementations of software concepts.</br>
-Discover AI tools: Understand how AI agents can support real-world workflows.</br>
-Improve coding skills: Practice JavaScript, algorithms, and logical reasoning.</br>
-Build projects faster: Find APIs and open-source tools for your next idea.</br>
-Explore open source: Study code, contribute improvements, and learn from other developers.</br>
-🚀 Getting Started</br>
-Choose a repository that matches your interests.</br>
-Open its GitHub page and read the project-specific README.md.</br>
-Review the installation instructions, prerequisites, and license.</br>
-Clone the repository if you want to experiment locally.</br>
-bash</br>
-git clone https://github.com/ethanplusai/harvey.git</br>
+## 🗂️ Repository Categories
 
+| Category | Repositories | Purpose |
+| --- | --- | --- |
+| 🤖 AI & Automation | [Harvey](https://github.com/ethanplusai/harvey), [Brag](https://github.com/latent-spaces/brag) | Build intelligent agents and automate workflows |
+| 📊 Trading & Finance | [Day Trader Skill](https://github.com/Jakeschincariol/day-trader-skill), [MarketPilot Core](https://github.com/Tayyab-Raza/marketpilot-core) | Explore market analysis and trading tools |
+| 🔌 Developer Resources | [Public APIs](https://github.com/public-apis/public-apis) | Discover APIs for application development |
+| 💻 Programming | [DSA JavaScript](https://github.com/Upendhar10/DSA-Javascript) | Learn data structures and algorithms |
+| 🧩 Problem Solving | [LogicBuilding101](https://github.com/Upendhar10/LogicBuilding101) | Develop coding logic through practice |
+
+---
+
+## 🎯 Why Explore These Projects?
+
+- **Learn by building:** Explore practical implementations of software concepts.
+- **Discover AI tools:** Understand how AI agents can support real-world workflows.
+- **Improve coding skills:** Practice JavaScript, algorithms, and logical reasoning.
+- **Build projects faster:** Find APIs and open-source tools for your next idea.
+- **Explore open source:** Study code, contribute improvements, and learn from other developers.
+
+---
+
+## 🚀 Getting Started
+
+1. Choose a repository that matches your interests.
+2. Open its GitHub page and read the project-specific `README.md`.
+3. Review the installation instructions, prerequisites, and license.
+4. Clone the repository to experiment locally.
+
+### 📥 Clone a Repository
+
+```bash
+git clone https://github.com/ethanplusai/harvey.git
+```
 
 Replace the URL with any repository listed above to clone a different project.
 
