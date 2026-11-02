@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Repositories-08-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="6 repositories" />
+<img src="https://img.shields.io/badge/Repositories-09-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="6 repositories" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Development-06b6d4?style=for-the-badge" alt="AI and development" />
 <img src="https://img.shields.io/badge/Learn-Build%20%26%20Practice-22c55e?style=for-the-badge" alt="Learn build and practice" />
 </p>
@@ -161,10 +161,26 @@ Tech focus: AI Voice Assistant · Claude Code · Developer Productivity · Build
 <img src="https://img.shields.io/badge/Explore%20Repository-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore JARVIS repository" />
 </a>
 </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+💼 09. AI Job Search
+
+AI Job Searching Tool
+
+The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.
+
+Tech focus: Job Seekers · Job Analysis · Development
+
+<p align="center">
+<a href="https://github.com/ai-job-search-dev/ai-job-search">
+<img src="https://img.shields.io/badge/Explore%20Repository-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI Job Search repository" />
+</a>
+</p>
 
 </td>
-
-
 </tr>
 </table>
 
@@ -172,7 +188,7 @@ Tech focus: AI Voice Assistant · Claude Code · Developer Productivity · Build
 
 | Category | Repositories | Purpose |
 | --- | --- | --- |
-| 🤖 AI & Automation | [Harvey](https://github.com/ethanplusai/harvey), [Brag](https://github.com/latent-spaces/brag), [Jarvis](https://github.com/ethanplusai/jarvis) | Build intelligent agents and automate workflows |
+| 🤖 AI & Automation | [Harvey](https://github.com/ethanplusai/harvey), [Brag](https://github.com/latent-spaces/brag), [Jarvis](https://github.com/ethanplusai/jarvis), [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) | Build intelligent agents and automate workflows |
 | 📊 Trading & Finance | [Day Trader Skill](https://github.com/Jakeschincariol/day-trader-skill), [MarketPilot Core](https://github.com/Tayyab-Raza/marketpilot-core) | Explore market analysis and trading tools |
 | 🔌 Developer Resources | [Public APIs](https://github.com/public-apis/public-apis) | Discover APIs for application development |
 | 💻 Programming | [DSA JavaScript](https://github.com/Upendhar10/DSA-Javascript) | Learn data structures and algorithms |
