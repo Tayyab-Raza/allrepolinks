@@ -193,7 +193,7 @@ Tech focus: Three.js · 3D Web · Agent Skills
 
 <p align="center">
 <a href="https://github.com/Moh4696/open-3d-skills">
-<img src="https://img.shields.io/badge/Explore%20Repository-e8642c?style=for-the-badge&logo=github&logoColor=white" alt="Explore Open 3D Skills repository" />
+<img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Open 3D Skills repository" />
 </a>
 </p>
 
@@ -213,7 +213,7 @@ Tech focus: Python · AI Agents · Automation
 
 <p align="center">
 <a href="https://github.com/NousResearch/hermes-agent">
-<img src="https://img.shields.io/badge/Explore%20Repository-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Hermes Agent repository" />
+<img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Hermes Agent repository" />
 </a>
 </p>
 
@@ -230,7 +230,7 @@ Tech focus: Claude Skills · UI Design · Frontend
 
 <p align="center">
 <a href="https://github.com/heydamir/unslop">
-<img src="https://img.shields.io/badge/Explore%20Repository-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Explore Unslop repository" />
+<img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Unslop repository" />
 </a>
 </p>
 
@@ -250,7 +250,7 @@ Tech focus: Speech Recognition · Translation · Meeting Tools
 
 <p align="center">
 <a href="https://github.com/wquguru/cicada">
-<img src="https://img.shields.io/badge/Explore%20Repository-e8552b?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cicada repository" />
+<img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cicada repository" />
 </a>
 </p>
 
