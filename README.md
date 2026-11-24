@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Repositories-09-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="6 repositories" />
+<img src="https://img.shields.io/badge/Repositories-13-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="13 repositories" />
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Development-06b6d4?style=for-the-badge" alt="AI and development" />
 <img src="https://img.shields.io/badge/Learn-Build%20%26%20Practice-22c55e?style=for-the-badge" alt="Learn build and practice" />
 </p>
@@ -181,6 +181,80 @@ Tech focus: Job Seekers · Job Analysis · Development
 </p>
 
 </td>
+<td width="50%" valign="top">
+
+🧊 10. Open 3D Skills
+
+Agent Skills for 3D and Animation
+
+A collection of eight agent skills for creating 3D and animated websites with Three.js. It supports real-time scenes, scroll-based films, transparent video, cursor interactions, exploded views, browser checks, and 60 fps recording across coding agents.
+
+Tech focus: Three.js · 3D Web · Agent Skills
+
+<p align="center">
+<a href="https://github.com/Moh4696/open-3d-skills">
+<img src="https://img.shields.io/badge/Explore%20Repository-e8642c?style=for-the-badge&logo=github&logoColor=white" alt="Explore Open 3D Skills repository" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🧠 11. Hermes Agent
+
+Self-Improving AI Agent
+
+A self-improving AI agent from Nous Research that learns across sessions, creates and improves skills, searches past conversations, delegates parallel work, and automates scheduled tasks. It supports multiple model providers and messaging platforms.
+
+Tech focus: Python · AI Agents · Automation
+
+<p align="center">
+<a href="https://github.com/NousResearch/hermes-agent">
+<img src="https://img.shields.io/badge/Explore%20Repository-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Hermes Agent repository" />
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+🎨 12. Unslop
+
+AI-Generated UI Refinement
+
+A Claude Code, Codex, and Google Antigravity skill that transforms AI-generated, generic-looking interfaces into distinctive designed experiences. It identifies visual slop and improves layout, spacing, typography, copy, and overall direction.
+
+Tech focus: Claude Skills · UI Design · Frontend
+
+<p align="center">
+<a href="https://github.com/heydamir/unslop">
+<img src="https://img.shields.io/badge/Explore%20Repository-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Explore Unslop repository" />
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+🎙️ 13. Cicada
+
+Live Subtitles and Meeting Notes
+
+An open-source meeting and livestream assistant with live bilingual subtitles, translation, interpreting, transcripts, and structured AI meeting notes. It works across calls, streams, and spoken content on major desktop and mobile platforms.
+
+Tech focus: Speech Recognition · Translation · Meeting Tools
+
+<p align="center">
+<a href="https://github.com/wquguru/cicada">
+<img src="https://img.shields.io/badge/Explore%20Repository-e8552b?style=for-the-badge&logo=github&logoColor=white" alt="Explore Cicada repository" />
+</a>
+</p>
+
+</td>
 </tr>
 </table>
 
@@ -188,9 +262,11 @@ Tech focus: Job Seekers · Job Analysis · Development
 
 | Category | Repositories | Purpose |
 | --- | --- | --- |
-| 🤖 AI & Automation | [Harvey](https://github.com/ethanplusai/harvey), [Brag](https://github.com/latent-spaces/brag), [Jarvis](https://github.com/ethanplusai/jarvis), [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search) | Build intelligent agents and automate workflows |
+| 🤖 AI & Automation | [Harvey](https://github.com/ethanplusai/harvey), [Brag](https://github.com/latent-spaces/brag), [Jarvis](https://github.com/ethanplusai/jarvis), [AI Job Search](https://github.com/ai-job-search-dev/ai-job-search), [Hermes Agent](https://github.com/NousResearch/hermes-agent), [Unslop](https://github.com/heydamir/unslop), [Cicada](https://github.com/wquguru/cicada) | Build intelligent agents and automate workflows |
 | 📊 Trading & Finance | [Day Trader Skill](https://github.com/Jakeschincariol/day-trader-skill), [MarketPilot Core](https://github.com/Tayyab-Raza/marketpilot-core) | Explore market analysis and trading tools |
 | 🔌 Developer Resources | [Public APIs](https://github.com/public-apis/public-apis) | Discover APIs for application development |
+| 🧊 3D & Visual Tools | [Open 3D Skills](https://github.com/Moh4696/open-3d-skills), [Unslop](https://github.com/heydamir/unslop) | Build 3D experiences and refine interfaces |
+| 🗣️ Communication | [Cicada](https://github.com/wquguru/cicada) | Transcribe, translate, and summarize meetings |
 | 💻 Programming | [DSA JavaScript](https://github.com/Upendhar10/DSA-Javascript) | Learn data structures and algorithms |
 | 🧩 Problem Solving | [LogicBuilding101](https://github.com/Upendhar10/LogicBuilding101) | Develop coding logic through practice |
 
